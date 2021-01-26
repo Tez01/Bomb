@@ -1,4 +1,4 @@
-ksdjf
+
 bomb:     file format elf64-x86-64
 
 SYMBOL TABLE:
