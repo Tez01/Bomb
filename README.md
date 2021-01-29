@@ -32,3 +32,5 @@ VMware Workstation 15 player
 ### * Phase 3
   The only thing to focus on is to how to get through the eax comparison at line 6 in disassembly. Have to check scanf as it changes the return register rax. Rest is simple assembly comprehension.
 
+### * Phase 4
+  The only knack is to understand a little big chunk of assembly code. Only comprehension for assembly is required.
