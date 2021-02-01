@@ -34,3 +34,6 @@ VMware Workstation 15 player
 
 ### * Phase 4
   The only knack is to understand a little big chunk of assembly code. Only comprehension for assembly is required.
+
+### * Phase 5
+  Its easy. Just need assembly comprehension skills and knowledge of which registers stores input arguments and how.
