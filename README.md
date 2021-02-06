@@ -37,3 +37,11 @@ VMware Workstation 15 player
 
 ### * Phase 5
   Its easy. Just need assembly comprehension skills and knowledge of which registers stores input arguments and how.
+
+### * Phase 6
+  A little complex as have to understand a lot of assembly. Key is to understand the functionaly of some chunks and move past by getting an abstract idea. Knoledge of structs and linked lists is required for the last chunk of assembly. 
+
+## Skills Acquired
+* (x86-64)Assembly comprehension
+* Extracting abstractions from machine code
+
